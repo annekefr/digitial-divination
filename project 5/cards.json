@@ -1,0 +1,156 @@
+[
+  {
+    "name": "The Fool",
+    "image": "cards/00_the_fool.jpg",
+    "audio": "audio/00_the_fool.mp3",
+    "phase": 0,
+    "definition": "Sweet fool, innocent soul, the unknown is to be feared but you can handle it. Do not trust two day old takeout, wear the lucky object, its ok "
+  },
+  {
+    "name": "The Magician",
+    "phase": 1,
+    "image": "cards/01_the_magician.jpg",
+    "audio": "audio/01_the_magician.mp3",
+    "definition": "Some things require you're hands to work. Do not procrastinate, get off your phone, avoid horoscopes and wishful thinking. Don't foreget your laundry in the dryer"
+  },
+  {
+    "name": "The High Priestess",
+    "phase": 2,
+    "image": "cards/02_the_high_priestess.jpg",
+    "audio": "audio/02_the_high_priestess.mp3",
+    "definition": "You have a secret, but you know that already. You're intuition is at flux right now, trust that. Don't wear polyester for at lease a week."
+  },
+  {
+    "name": "The Empress",
+    "phase": 3,
+    "image": "cards/03_the_empress.jpg",
+    "audio": "audio/03_the_empress.mp3",
+    "definition": "Some things require nurturing, it's important to hone the maternal instinct. Don't buy a plant unless you can handle it."
+  },
+  {
+    "name": "The Emperor",
+    "phase": 0,
+    "image": "cards/04_the_emperor.jpg",
+    "audio": "audio/04_the_emperor.mp3",
+    "definition": "You are quick to put your foot down right now, this is not a bad thing, but it is important to open up to trust Let that river flow baby!"
+  },
+  {
+    "name": "The Hierophant",
+    "phase": 1,
+    "image": "cards/05_the_hierophant.jpg",
+    "audio": "audio/j.mp3",
+    "definition": "You're carrying something that was not yours in the first place, examine what you want to do with it. Do invest in luggage this week. "
+  },
+  {
+    "name": "The Lovers",
+    "phase": 2,
+    "image": "cards/06_the_lovers.jpg",
+    "audio": "audio/06_the_lovers.mp3",
+    "definition": "Passion is in the air, there is a lot of energy in your life, it's important to not get caught up in the fire. Order a Pornstar Martini and talk to a stranger this week."
+  },
+  {
+    "name": "The Chariot",
+    "phase": 3,
+    "image": "cards/07_the_chariot.jpg",
+    "audio": "audio/07_the_chariot.mp3",
+    "definition": "An object in motion stays in motion, don't be afraid of the grind. Stay off italian food for the week, bad things may happen."
+  },
+  {
+    "name": "Strength",
+    "phase": 0,
+    "image": "cards/08_strength.jpg",
+    "audio": "audio/08_strength.mp3",
+    "definition": "You have a strength inside of you that you are beginning to find. Dont let the world knock you down. Practife rejection therapy this weekned."
+  },
+  {
+    "name": "The Hermit",
+    "phase": 1,
+    "image": "cards/09_the_hermit.jpg",
+    "audio": "audio/09_the_hermit.mp3",
+    "definition": "Look inside yourself this week, but don't get lost in the interior world. You have must to learn internally from the outside. Book a trip."
+  },
+  {
+    "name": "Wheel of Fortune",
+    "phase": 2,
+    "image": "cards/10_wheel_of_fortune.jpg",
+    "audio": "audio/10_wheel_of_fortune.mp3",
+    "definition": "Life is coming at you, roll with the punches. Try meditation "
+  },
+  {
+    "name": "Justice",
+    "phase": 3,
+    "image": "cards/11_justice.jpg",
+    "audio": "audio/11_justice.mp3",
+    "definition": "Revenge is best served cold, and baby you're icey this week! The truth will previal, but do not skirt accountability. Stay off dating apps this week."
+  },
+  {
+    "name": "The Hanged Man",
+    "phase": 0,
+    "image": "cards/12_the_hanged_man.jpg",
+    "audio": "audio/12_the_hanged_man.mp3",
+    "definition": "A new perspective is coming to light, practice surrender and pateince. Stay away from rubber soled shoes this week."
+  },
+  {
+    "name": "Death",
+    "phase": 1,
+    "image": "cards/13_death.jpg",
+    "audio": "audio/13_death.mp3",
+    "definition": "Whether you like it or not, something is ending. Put on all black and grieve, but rememeber with death comes birth. Go to the park this week, something unexpected may happen."
+  },
+  {
+    "name": "Temperance",
+    "phase": 2,
+    "image": "cards/14_temperance.jpg",
+    "audio": "audio/14_temperance.mp3",
+    "definition": "Do not stray from what you know is right for yourself, but do not be afraid to try something new. Stay away from large bodies of water this week."
+  },
+  {
+    "name": "The Devil",
+    "phase": 3,
+    "image": "cards/15_the_devil.jpg",
+    "audio": "audio/15_the_devil.mp3",
+    "definition": "There is something holding you, you must confront that. Stay away from substances, meaningless sex, and shopping this week."
+  },
+  {
+    "name": "The Tower",
+    "phase": 0,
+    "image": "cards/16_the_tower.jpg",
+    "audio": "audio/16_the_tower.mp3",
+    "definition": "If it hasn't happened yet, something major is coming. You're whole world is about to be leveled back to the ground. Do not fear this. "
+  },
+  {
+    "name": "The Star",
+    "phase": 1,
+    "image": "cards/17_the_star.jpg",
+    "audio": "audio/17_the_star.mp3",
+    "definition": "You are you're biggest cheerleader, rememeber that. The star shines even miles from the earth. Wear something sparkly this week."
+  },
+  {
+    "name": "The Moon",
+    "phase": 2,
+    "image": "cards/18_the_moon.jpg",
+    "audio": "audio/18_the_moon.mp3",
+    "definition": "You are not seeing the full picture, you know that. Do not be fooled. Stay away from major decisions this week, and avoid japanese food."
+  },
+  {
+    "name": "The Sun",
+    "phase": 3,
+    "image": "cards/19_the_sun.jpg",
+    "audio": "audio/19_the_sun.mp3",
+    "definition": "Let the good times roll, you're in a good place. Have fun with that, life isnt always this bright. Order a bowl of fruit this week, good thing come in threes."
+  },
+  {
+    "name": "Judgement",
+    "phase": 0,
+    "image": "cards/20_judgement.jpg",
+    "audio": "audio/20_judgement.mp3",
+    "definition": "You are being called back to something you left unfinished. DO not procrastinate this, it will come. Stay away from red meat this week."
+  },
+  {
+    "name": "The World",
+    "phase": 1,
+    "image": "cards/21_the_world.jpg",
+    "audio": "audio/21_the_world.mp3",
+    "definition": "You have fufilled a cycle, there is still more to come, be rpoud of yourself for how far you have come. Surround yourself with fishlovers this week, good things come in schools."
+  }
+]
